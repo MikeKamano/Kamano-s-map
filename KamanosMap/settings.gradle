@@ -1,0 +1,2 @@
+rootProject.name = "Kamano's Map"
+include ':app'
